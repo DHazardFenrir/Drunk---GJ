@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/DrunksterMaster.unity
+    guid: 3ca03349d15bb0c46bb0d1d9057a961d
   m_configObjects: {}
